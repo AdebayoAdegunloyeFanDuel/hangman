@@ -1,6 +1,6 @@
 import random
-from hangman_words import lists_of_words
-from hangman_art import logo, stages
+from hang.hangman_words import lists_of_words
+from hang.hangman_art import logo, stages
 from replit import clear
 
 print(logo)
